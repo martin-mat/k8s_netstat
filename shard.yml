@@ -22,8 +22,8 @@ dependencies:
     version: ~> 0.1.0
   cluster_tools:
     # path: ../cluster_tools
-    github: cnf-testsuite/cluster_tools
-    version: ~> 1.0.0
+    github: martin-mat/cluster_tools
+    version: ~> 1.0.8
   helm:
     github: cnf-testsuite/helm
     version: ~> 1.0.0
